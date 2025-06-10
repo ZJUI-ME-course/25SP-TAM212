@@ -2,9 +2,12 @@
 
 
 
-Content
-1. 目前主要是极坐标表示
+## 1.Content
 
+RESOURCES
+1. `TAM212-SLIDE` 
+2. `Reference formula`
+3. 
 
 
 
