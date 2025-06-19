@@ -5,16 +5,14 @@
 ## 1.Content
 
 RESOURCES
-1. `TAM212-SLIDE` 
-2. `Reference formula`
-3. 学长提供的自己的笔记
+1. `TAM212-SLIDE` 我是没看过 我只看了我们谌骅老师的ppt
+2. `Reference formula` 这个其实完全够用
 
 IPYNB
 
 1. 1a,1b,..7所有的代码题目
 2. final review我复习的时候过了一些比较困难的题目-有些题目可能额
 3. huajiajun 学长当时的题目代码+思路
-
 
 
 
